@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43805'
     url: http://www.gutenberg.org/2009/agents/43805
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35692#The-History-of-Company-A-Second-Illinois-Cavalry
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2011-03-27'
 gutenberg_type: Text
