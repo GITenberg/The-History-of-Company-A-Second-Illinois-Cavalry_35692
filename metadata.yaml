@@ -1,0 +1,30 @@
+_repo: The-History-of-Company-A-Second-Illinois-Cavalry_35692
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fletcher, Samuel H.
+    gutenberg_agent_id: '37838'
+    url: http://www.gutenberg.org/2009/agents/37838
+  - agent_name: Fletcher, D. H.
+    gutenberg_agent_id: '43805'
+    url: http://www.gutenberg.org/2009/agents/43805
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2011-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Illinois Cavalry Regiment, 2nd (1861-1865) -- History'
+- !lcc 'E456'
+- !lcsh 'Illinois -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+title: The History of Company A, Second Illinois Cavalry
+url: http://www.gutenberg.org/ebooks/35692
